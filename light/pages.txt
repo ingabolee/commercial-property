@@ -1,0 +1,22 @@
+login
+register
+forgotpassword
+dashboard
+(create)
+building
+land
+machinery
+vehicle
+owner
+service
+serviceprovider
+propertytype
+(readone, update, delete will be on the same page)
+building
+land
+machinery
+vehicle
+owner
+service
+serviceprovider
+propertytype
